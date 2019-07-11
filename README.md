@@ -28,6 +28,7 @@
       Rscript runQPuB.r -fol examples/toy_endo3_nonoise -pf input.txt 
      ```
      for the data with noise 
+     [GitHub](http://github.com)
      
  *  **Output**
  
