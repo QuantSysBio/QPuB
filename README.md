@@ -3,6 +3,8 @@
 
 &nbsp;
 
+**Update April 2021: QPuB is current work in progress, an updated version will be available soon!**
+
 :black_medium_small_square:[Bayesian inference][bayestat-url] 
 :black_medium_small_square:[Peptide quantification][peptide-url]
 :black_medium_small_square:[Mass spectrometry][massspec-url]
